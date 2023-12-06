@@ -1,1 +1,1 @@
-# patient-disease-identifing
+# patient-disease-diagnosis
